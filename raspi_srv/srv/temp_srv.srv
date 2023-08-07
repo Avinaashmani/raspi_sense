@@ -1,0 +1,5 @@
+bool humidity
+bool temperature
+---
+float32 humid
+float32 temp 
